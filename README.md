@@ -1,9 +1,3 @@
-
-
-<!DOCTYPE html>
-<html lang="en">
-
-
 <head>
     <!-- Google tag (gtag.js) -->
     <script async nonce="MDhmNWU0M2QtZmNhMi00OGU0LWFiMTQtMTdjZjllNWZmZDkx" src="https://www.googletagmanager.com/gtag/js?id=G-5GHLLEBB4R"></script>
